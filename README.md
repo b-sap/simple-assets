@@ -1,6 +1,6 @@
 # simple-assets-min (all minified version)
 
-css :
+css : <br>
   -> bootstrap-4.6.0
   -> bootstrap-5.0.0-beta1
   -> font-awesome :
